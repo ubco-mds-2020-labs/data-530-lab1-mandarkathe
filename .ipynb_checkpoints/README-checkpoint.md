@@ -8,7 +8,5 @@ For this lab, you will need to open lab1.ipynb in a Jupyterlab session and follo
 
 **How many hours did you spend on this lab?** [12] hours.
 
-**Comments**: What did you learn in this lab? 
-
-This answer is not graded and is for course improvement purposes.
+**Comments**: What did you learn in this lab? This answer is not graded and is for course improvement purposes.
 Installing softwares, kearning basic git commands
